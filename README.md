@@ -18,12 +18,12 @@ https://github.com/ramzilhuda/Elementary-OS/blob/main/kode-etik.md
 4. Akses Internet
 5 VGA dengan grafik 1024×768 display
 
-#Kelebihan Elemntary OS
+# Kelebihan Elemntary OS
 Secara performa dirasa jauh lebih cepat dibanding dengan Ubuntu. Hal itu mungkin disebabkan oleh jenis DE (Desktop Environment) yang digunakan dimana Ubuntu menggunakan Unity sedangkan eOS menggunakan Pantheon yang memang lebih ringan. 
 Selain itu dapat dilihat juga dari system requirement-nya, dimana jika dibandingkan dengan Ubuntu yang recommended Ram-nya 2GB. Dari segi customize-nya juga sudah mumpuni dimana kita dapat mengutak-atik sesuai keinginan kita.
 Uniknya di eOS ini ada fitur notifikasi dimana jika semisal kita menjalankan perintah di Terminal maka jika sudah selesai perintah itu dieksekusi akan muncul notofikasi di pojok kanan atas. Fitur ini belum tersedia di beberapa distro Linux termasuk Ubuntu.
 
-#Kekurangan Elemntary OS
+# Kekurangan Elemntary OS
 Selain kelebihan dan keunikan diatas beberapa kekurangan masih bisa ditemukan di eOS. Memang eOS adalah distro yang tergolong ringan dan cepat namun bukan yang tercepat karena masih ada beberapa distro yang lebih ringan dibandingkan dengan eOS misal saja Lubuntu yang juga berbasis Ubuntu yang diperuntukkan untuk perangkat-perangkat lama. Selain itu masih sering ditemukan bug berupa freeze yang kadang terjadi tetapi biasanya ini terjadi saat seseorang salah atau memaksakan suatu customize pada eOS.
 
 Elementary OS ini juga termasuk distro yang jarang sekali merilis versi terbarunya dan juga dukungan atau forum yang membahas eOS juga tidak sebanyak Ubuntu.
