@@ -1,0 +1,3 @@
+# Kesimpulan
+Elementary OS adalah distro linux yang berkonsentrasi menghadirkan user interface yang elegan bagi penggunanya. Mengklaim diri sebagai OS alternatif dari Windows dan Mac. Memiliki kecepatan yang bagus dan performa yang stabil, memiliki simplisitas yang tinggi. Dan cara install-nya pun tidak sulit.
+Elementary OS bisa menjadi pilihan distro kalian jika kalian menginginkan sebuah OS yang cepat dan ringan. Jika kalian menggunakan OS ini secara wajar (tidak terlalu meng-custom, dll) maka eOS ini akan tetap stabil dalam penggunaannya. Meskipun forum yang membahas eOS tidak sebanyak Ubuntu namun bukan berarti tidak ada sama sekali.
