@@ -75,6 +75,6 @@ Berikut penampakan setelah 3 partisi selesai saya tambahkan
 ![Screenshot_18](https://user-images.githubusercontent.com/60292040/105371435-32ca2f80-5c37-11eb-9f9b-ee800cb6e91d.jpg)
 ![Screenshot_19](https://user-images.githubusercontent.com/60292040/105371437-3362c600-5c37-11eb-802d-b627db5384c1.jpg)
 
-#
+referensi : https://jagongoding.com/linux/elementary-os
 
 
