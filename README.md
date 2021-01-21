@@ -10,8 +10,10 @@ https://github.com/ramzilhuda/Elementary-OS/blob/main/LICENSE
 https://github.com/ramzilhuda/Elementary-OS/blob/main/CONTRIBUTING.md
 3. kode etik
 https://github.com/ramzilhuda/Elementary-OS/blob/main/kode-etik.md
-4. Panduan Instalasi
+4. Panduan Instalasi Elementary OS ( eSO )
 https://github.com/ramzilhuda/Elementary-OS#panduan-instalasi-elementary-os
+5. Panduan Instalasi LibreOffice
+https://github.com/ramzilhuda/Elementary-OS/blob/main/cara-install-LibreOffice.md
 
 # Sistem Rekomendasi 
 1. Prosesor Intel i3 or compatible dual-core 64-bit processor
