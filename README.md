@@ -3,12 +3,30 @@
 Elementary OS merupakan sebuah distro linux berbasiskan Ubuntu. Distro ini menggunakan desktop manager-nya sendiri yang bernama Pantheon. Rilis versi stabil pertama dari elementary OS adalah "Jupiter", diluncurkan pada Maret 2011 dan berbasis Ubuntu 10.10. Sejak Oktober 2012, versi ini tidak lagi didukung dan berarti juga tidak lagi bisa diunduh di situs resmi elementary OS. 
 Elementary OS tersedia dengan bebas biaya (tersedia pilihan untuk menyumbang kepada tim pengembang) melalui pengunduhan berkas iso, BitTorrent maupun Live CD/USB yang mengizinkan pengguna untuk dapat mencobanya tanpa perlu melakukan pemasangan pada harddisk. Installer-nya adalah Ubiquity yang merupakan installer standar untuk Ubuntu dan kebanyakan Sistem Operasi turunannya.
 
+Panduan : 
+1. Lisensi
+https://github.com/ramzilhuda/Elementary-OS/blob/main/LICENSE
+2. Kontribusi
+https://github.com/ramzilhuda/Elementary-OS/blob/main/CONTRIBUTING.md
+3. kode etik
+https://github.com/ramzilhuda/Elementary-OS/blob/main/kode-etik.md
+
 # Sistem Rekomendasi 
 1. Prosesor Intel i3 or compatible dual-core 64-bit processor
 2. 4 GB (RAM)
 3. Hardisk 15 GB untuk penyimpanan
 4. Akses Internet
 5 VGA dengan grafik 1024×768 display
+
+#Kelebihan Elemntary OS
+Secara performa dirasa jauh lebih cepat dibanding dengan Ubuntu. Hal itu mungkin disebabkan oleh jenis DE (Desktop Environment) yang digunakan dimana Ubuntu menggunakan Unity sedangkan eOS menggunakan Pantheon yang memang lebih ringan. 
+Selain itu dapat dilihat juga dari system requirement-nya, dimana jika dibandingkan dengan Ubuntu yang recommended Ram-nya 2GB. Dari segi customize-nya juga sudah mumpuni dimana kita dapat mengutak-atik sesuai keinginan kita.
+Uniknya di eOS ini ada fitur notifikasi dimana jika semisal kita menjalankan perintah di Terminal maka jika sudah selesai perintah itu dieksekusi akan muncul notofikasi di pojok kanan atas. Fitur ini belum tersedia di beberapa distro Linux termasuk Ubuntu.
+
+#Kekurangan Elemntary OS
+Selain kelebihan dan keunikan diatas beberapa kekurangan masih bisa ditemukan di eOS. Memang eOS adalah distro yang tergolong ringan dan cepat namun bukan yang tercepat karena masih ada beberapa distro yang lebih ringan dibandingkan dengan eOS misal saja Lubuntu yang juga berbasis Ubuntu yang diperuntukkan untuk perangkat-perangkat lama. Selain itu masih sering ditemukan bug berupa freeze yang kadang terjadi tetapi biasanya ini terjadi saat seseorang salah atau memaksakan suatu customize pada eOS.
+
+Elementary OS ini juga termasuk distro yang jarang sekali merilis versi terbarunya dan juga dukungan atau forum yang membahas eOS juga tidak sebanyak Ubuntu.
 
 # Panduan Instalasi Elementary-OS
 1. Download ISO Elementary-OS sesuai dengan sistem operasi yang kamu gunakan di https://elementary.io/ bagi kamu yang ingin berdonasi silahkan isi sesuai dengan keinginan teman - teman bagi yang ingin downloa secara free silahkan isi donasi dengan $0
