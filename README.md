@@ -10,6 +10,8 @@ https://github.com/ramzilhuda/Elementary-OS/blob/main/LICENSE
 https://github.com/ramzilhuda/Elementary-OS/blob/main/CONTRIBUTING.md
 3. kode etik
 https://github.com/ramzilhuda/Elementary-OS/blob/main/kode-etik.md
+4. Panduan Instalasi
+https://github.com/ramzilhuda/Elementary-OS#panduan-instalasi-elementary-os
 
 # Sistem Rekomendasi 
 1. Prosesor Intel i3 or compatible dual-core 64-bit processor
